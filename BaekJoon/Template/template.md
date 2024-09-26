@@ -1,5 +1,5 @@
 # 문제
-![image name](image link)
+![image name](./imgs/)
 
 
 # 코드

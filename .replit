@@ -1,7 +1,8 @@
 modules = ["cpp-clang14"]
-run = "run"
+run = "clang++ ./BaekJoon/30802/main.cpp -o ./test"
 [nix]
 channel = "stable-24_05"
 
 [deployment]
 run = ["sh", "-c", "run"]
+
