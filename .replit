@@ -1,5 +1,5 @@
 modules = ["cpp-clang14"]
-run = "clang++ ./BaekJoon/30802/main.cpp -o ./test"
+run = "clang++ ./BaekJoon/1978/main.cpp -o ./test"
 [nix]
 channel = "stable-24_05"
 
