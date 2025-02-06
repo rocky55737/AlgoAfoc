@@ -1,1 +1,4 @@
 test*
+.vs*
+*replit*
+*ccls-cache*
